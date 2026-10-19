@@ -46,4 +46,14 @@
   - Hiring: Account Executives and Mid-Market Sales Managers
   - Notes: [2026-10-19]
 
+## BuildOps
+- **Kevin O'Donnell** - VP of Sales
+  - LinkedIn: https://www.linkedin.com/in/kevinmodonnell
+  - Company: BuildOps (field service / all-in-one platform for commercial specialty contractors)
+  - Email tried: kevin@buildops.com (bounced 2026-10-19, account inactive / disabled)
+  - Better patterns to try (RocketReach/Prospeo common formats): kevin.odonnell@buildops.com, kevinodonnell@buildops.com, k.odonnell@buildops.com, kodonnell@buildops.com
+  - General fallbacks: sales@buildops.com, talent@buildops.com, careers@buildops.com
+  - Hiring signals: Multiple open AE and SDR roles (Mid-Market AE, Enterprise AE, Corporate AE, etc.)
+  - Notes: Confirmed VP Sales via company site and LinkedIn. kevin@ inactive. [2026-10-19]
+
 *Update emails and LinkedIn as verified. Prefer verified over guessed patterns.*

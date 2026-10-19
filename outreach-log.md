@@ -51,6 +51,16 @@ Tracking outreach from hello@horizontalentgrp.com (Horizon Talent Grp). Always i
 - Roles: Account Executives, Mid-Market Sales Managers
 - Status: Some deliveries successful
 
+## BuildOps
+- Date: 2026-10-19
+- Contact: Kevin O'Donnell, VP of Sales
+- LinkedIn: https://www.linkedin.com/in/kevinmodonnell
+- Attempt: kevin@buildops.com — bounced (permanent error 550 5.2.1, account inactive/disabled)
+- Better emails to try next: kevin.odonnell@buildops.com, kevinodonnell@buildops.com, k.odonnell@buildops.com, kodonnell@buildops.com
+- General: sales@buildops.com, talent@buildops.com, careers@buildops.com
+- Roles: Multiple AE / SDR openings (Mid-Market, Enterprise, Corporate)
+- Status: Bounce confirmed. Retry with first.last and firstlast patterns.
+
 ## Cadence Notes
 - Lean daily outreach: one company/role per day while employed full-time
 - Contingency model preferred

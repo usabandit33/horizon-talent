@@ -10,5 +10,6 @@ Focus: construction tech, field service, logistics, proptech. Permanent placemen
 | Siteline | Construction billing / AR | Billing and AR for specialty trade contractors | Account Executive | Contact: Katie MacKillop, Head of Sales |
 | Handoff | AI estimating & ops | Platform for residential contractors / construction supply chain | Mid-Market / Enterprise AE | Contact: Logan Creque, Head of Sales |
 | Miter | Construction HCM | Payroll, field ops SaaS | Account Executives, Mid-Market Sales Managers | Contact: Chase Cox, Head of Sales |
+| BuildOps | Field service / commercial contractors | All-in-one FSM / ops platform for commercial specialty contractors | Multiple AE and SDR roles (Mid-Market AE, Enterprise AE, Corporate AE, SDRs) | Contact: Kevin O'Donnell, VP of Sales. kevin@ bounced 2026-10-19 |
 
 *Add more companies as researched. Prioritize those with active sales hiring in target verticals.*
