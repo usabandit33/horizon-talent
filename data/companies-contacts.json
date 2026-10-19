@@ -57,7 +57,7 @@
           "linkedin": "",
           "emails_tried": [
             {"email": "kmackillop@siteline.com", "status": "bounced"},
-            {"email": "katie@siteline.com", "status": "sent"}
+            {"email": "katie@siteline.com", "status": "delivered"}
           ],
           "notes": "Scheduled additional variants 2026-10-16"
         }
@@ -109,12 +109,12 @@
           "linkedin": "https://www.linkedin.com/in/kevinmodonnell",
           "emails_tried": [
             {"email": "kevin@buildops.com", "status": "bounced 2026-10-19 inactive"},
-            {"email": "kevin.odonnell@buildops.com", "status": "sent 2026-10-19"},
+            {"email": "kevin.odonnell@buildops.com", "status": "bounced 2026-10-19"},
             {"email": "kevinodonnell@buildops.com", "status": "scheduled +1h"},
             {"email": "k.odonnell@buildops.com", "status": "scheduled +2h"},
             {"email": "kodonnell@buildops.com", "status": "scheduled +4h"}
           ],
-          "notes": "VP Sales confirmed. kevin@ inactive. [2026-10-19]"
+          "notes": "VP Sales confirmed. kevin@ and kevin.odonnell@ bounced inactive. Next patterns scheduled. [2026-10-19]"
         }
       ]
     }
