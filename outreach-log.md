@@ -61,9 +61,20 @@ Tracking outreach from hello@horizontalentgrp.com (Horizon Talent Grp). Always i
 - Roles: Multiple AE / SDR openings (Mid-Market, Enterprise, Corporate)
 - Status: Bounce confirmed. Retry with first.last and firstlast patterns.
 
+## Clearstory
+- Date: 2026-10-20
+- Company: Clearstory (clearstory.build, formerly Extracker)
+- Role: Mid-Market Account Executive (Specialty Contractor)
+- Contact: Chris Tzortzis, VP of Sales
+- LinkedIn: https://www.linkedin.com/in/chris-tzortzis-90792230
+- Email sent: chris.tzortzis@clearstory.build (medium confidence; common patterns also include ctzortzis@clearstory.build)
+- Sources: clearstory.build/about-us (leadership), LinkedIn, RocketReach/ContactOut, job boards
+- Status: Outreach email sent from hello@horizontalentgrp.com (includeSignature true). Message ID: 1792501887291155100
+- Notes: Actively hiring multiple AE roles. Series B ~$16M. Construction change order / T&M workflow SaaS.
+
 ## Cadence Notes
 - Lean daily outreach: one company/role per day while employed full-time
 - Contingency model preferred
 - Update this log after each send and reply tracking
 
-Last updated: 2026-10-19
+Last updated: 2026-10-20
