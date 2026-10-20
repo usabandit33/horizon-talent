@@ -67,10 +67,12 @@ Tracking outreach from hello@horizontalentgrp.com (Horizon Talent Grp). Always i
 - Role: Mid-Market Account Executive (Specialty Contractor)
 - Contact: Chris Tzortzis, VP of Sales
 - LinkedIn: https://www.linkedin.com/in/chris-tzortzis-90792230
-- Email sent: chris.tzortzis@clearstory.build (medium confidence; common patterns also include ctzortzis@clearstory.build)
+- Attempts:
+  - chris.tzortzis@clearstory.build: bounced 2026-10-20 (permanent 550 5.1.1, account does not exist)
+  - ctzortzis@clearstory.build: sent 2026-10-20 (higher confidence first_initial+last pattern)
 - Sources: clearstory.build/about-us (leadership), LinkedIn, RocketReach/ContactOut, job boards
-- Status: Outreach email sent from hello@horizontalentgrp.com (includeSignature true). Message ID: 1792501887291155100
-- Notes: Actively hiring multiple AE roles. Series B ~$16M. Construction change order / T&M workflow SaaS.
+- Status: Bounce on first pattern. Retry sent to ctzortzis@clearstory.build (Message ID: 1792502334163155100). Monitor for delivery.
+- Notes: Actively hiring multiple AE roles. Series B ~$16M. Construction change order / T&M workflow SaaS. Next fallbacks if needed: chris@clearstory.build, sales@clearstory.build.
 
 ## SiteAware
 - Date: 2026-10-20
