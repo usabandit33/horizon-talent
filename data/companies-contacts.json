@@ -282,9 +282,9 @@
           "emails_tried": [
             {"email": "adam@afresh.com", "status": "likely"},
             {"email": "adam.litle@afresh.com", "status": "likely"},
-            {"email": "alitle@afresh.com", "status": "likely"}
+            {"email": "alitle@afresh.com", "status": "bounced 2026-10-20 550 5.1.1"}
           ],
-          "notes": "70% revenue growth reported. Joined as CRO. [2026-10-20]"
+          "notes": "70% revenue growth reported. Joined as CRO. alitle@ permanent bounce. Alternatives still in drafts. [2026-10-20]"
         }
       ]
     },
@@ -301,9 +301,9 @@
           "emails_tried": [
             {"email": "john.ortwerth@workwave.com", "status": "likely"},
             {"email": "jortwerth@workwave.com", "status": "likely"},
-            {"email": "john@workwave.com", "status": "likely"}
+            {"email": "john@workwave.com", "status": "bounced 2026-10-20 address not found"}
           ],
-          "notes": "Common pattern first.last ~65%. CRO oversees sales. [2026-10-20]"
+          "notes": "Common pattern first.last ~65%. john@ permanent bounce. Alternatives still in drafts. [2026-10-20]"
         }
       ]
     },
@@ -320,9 +320,9 @@
           "emails_tried": [
             {"email": "jdecraen@evercommerce.com", "status": "likely"},
             {"email": "joe.decraen@evercommerce.com", "status": "likely"},
-            {"email": "joe@evercommerce.com", "status": "likely"}
+            {"email": "joe@evercommerce.com", "status": "bounced 2026-10-20 550 5.4.1"}
           ],
-          "notes": "EverCommerce domain. Common format firstinitiallast. [2026-10-20]"
+          "notes": "EverCommerce domain. joe@ permanent bounce. Alternatives still in drafts. [2026-10-20]"
         }
       ]
     },

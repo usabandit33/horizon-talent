@@ -119,26 +119,29 @@
 - **Adam Litle** - Chief Revenue Officer
   - Company: Afresh (AI for fresh retail / supply chain, afresh.com)
   - Masked: a***@afresh.com
-  - Likely: adam@afresh.com, adam.litle@afresh.com, alitle@afresh.com
+  - Bounced: alitle@afresh.com (550 5.1.1 permanent, 2026-10-20)
+  - Alternatives still in drafts / to try: adam@afresh.com, adam.litle@afresh.com
   - Public fallback: support@afresh.com (technical, not ideal)
   - Hiring: Enterprise Account Executive remote U.S.
-  - Notes: 70% revenue growth reported. Joined as CRO. [2026-10-20]
+  - Notes: 70% revenue growth reported. Joined as CRO. alitle@ retired. [2026-10-20]
 
 ## WorkWave
 - **John Ortwerth** - Chief Revenue Officer
   - Company: WorkWave (field service SaaS, workwave.com)
   - Common formats: first.last (65%+), firstinitiallast
-  - Likely: john.ortwerth@workwave.com, jortwerth@workwave.com, john@workwave.com
+  - Bounced: john@workwave.com (address not found, 2026-10-20)
+  - Alternatives still in drafts / to try: john.ortwerth@workwave.com, jortwerth@workwave.com
   - Hiring: Mid-Market Account Executive (confirm requisition still open)
-  - Notes: CRO oversees sales and business development. [2026-10-20]
+  - Notes: CRO oversees sales and business development. john@ retired. [2026-10-20]
 
 ## EverPro (EverCommerce)
 - **Joe de Craen** - SVP, Head of Sales and Partnerships for EverPro
   - Company: EverPro / EverCommerce (home and field service vertical SaaS, evercommerce.com)
   - Common format: firstinitiallast@evercommerce.com
-  - Likely: jdecraen@evercommerce.com, joe.decraen@evercommerce.com, joe@evercommerce.com
+  - Bounced: joe@evercommerce.com (550 5.4.1 recipient address rejected, 2026-10-20)
+  - Alternatives still in drafts / to try: jdecraen@evercommerce.com, joe.decraen@evercommerce.com
   - Hiring: Cross-sell Account Executive (confirm still open)
-  - Notes: Recent leadership updates. [2026-10-20]
+  - Notes: Recent leadership updates. joe@ retired. [2026-10-20]
 
 ## Clue Insights
 - **Oded Ran** - Co-founder and CEO
@@ -155,4 +158,4 @@
   - Hiring: Enterprise Account Executive SF or remote
   - Notes: Confirm current title and reporting line. [2026-10-20]
 
-*Update emails and LinkedIn as verified. Prefer verified over guessed patterns. New contacts added 2026-10-20.*
+*Update emails and LinkedIn as verified. Prefer verified over guessed patterns. Bounce log updated 2026-10-20.*
