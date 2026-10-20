@@ -12,5 +12,6 @@ Focus: construction tech, field service, logistics, proptech. Permanent placemen
 | Miter | Construction HCM | Payroll, field ops SaaS | Account Executives, Mid-Market Sales Managers | Contact: Chase Cox, Head of Sales |
 | BuildOps | Field service / commercial contractors | All-in-one FSM / ops platform for commercial specialty contractors | Multiple AE and SDR roles (Mid-Market AE, Enterprise AE, Corporate AE, SDRs) | Contact: Kevin O'Donnell, VP of Sales. kevin@ bounced 2026-10-19 |
 | Clearstory | Construction tech | Change order communication and workflow SaaS (formerly Extracker) | Mid-Market AE (Specialty Contractor), other AE roles | Contact: Chris Tzortzis, VP of Sales. Outreach sent 2026-10-20 to chris.tzortzis@clearstory.build |
+| SiteAware | Construction tech | AI-powered Digital Construction Verification platform | Enterprise SaaS Account Executive (U.S.) | Contact: Zeev Braude, Co-founder/President/CRO. Outreach sent 2026-10-20 to info@siteaware.com |
 
 *Add more companies as researched. Prioritize those with active sales hiring in target verticals.*
