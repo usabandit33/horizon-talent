@@ -129,9 +129,10 @@
           "title": "VP of Sales",
           "linkedin": "https://www.linkedin.com/in/chris-tzortzis-90792230",
           "emails_tried": [
-            {"email": "chris.tzortzis@clearstory.build", "status": "sent 2026-10-20"}
+            {"email": "chris.tzortzis@clearstory.build", "status": "bounced 2026-10-20 550 5.1.1"},
+            {"email": "ctzortzis@clearstory.build", "status": "sent 2026-10-20"}
           ],
-          "notes": "Outreach sent from hello@horizontalentgrp.com. Likely better pattern ctzortzis@clearstory.build. [2026-10-20]"
+          "notes": "First pattern bounced (account does not exist). Retry sent to higher-confidence ctzortzis@ (first_initial+last). [2026-10-20]"
         }
       ]
     },
