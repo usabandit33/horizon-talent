@@ -72,6 +72,19 @@ Tracking outreach from hello@horizontalentgrp.com (Horizon Talent Grp). Always i
 - Status: Outreach email sent from hello@horizontalentgrp.com (includeSignature true). Message ID: 1792501887291155100
 - Notes: Actively hiring multiple AE roles. Series B ~$16M. Construction change order / T&M workflow SaaS.
 
+## SiteAware
+- Date: 2026-10-20
+- Company: SiteAware (siteaware.com)
+- Role: Enterprise SaaS Account Executive (U.S. market, commercial construction)
+- Contact: Zeev Braude, Co-founder, President and Chief Revenue Officer
+- LinkedIn: https://il.linkedin.com/in/zeev-braude-b78525
+- Email sent: info@siteaware.com (safer public; addressed to Zeev)
+- Likely direct patterns: zbraude@siteaware.com, z.braude@siteaware.com, zeev.braude@siteaware.com (SignalHire/Growjo masked z* e@siteaware.com)
+- Other: Jobs@siteaware.com (recruiting)
+- Sources: LinkedIn company jobs, SignalHire, Prospeo email formats (common first_initial.last)
+- Status: Outreach email sent from hello@horizontalentgrp.com (includeSignature true). Message ID: 1792502200198155300
+- Notes: AI-powered Digital Construction Verification platform. ~11-50 employees, Austin/Houston TX presence. Recent Enterprise AE hiring confirmed.
+
 ## Cadence Notes
 - Lean daily outreach: one company/role per day while employed full-time
 - Contingency model preferred
