@@ -117,7 +117,24 @@
           "notes": "VP Sales confirmed. kevin@ and kevin.odonnell@ bounced inactive. Next patterns scheduled. [2026-10-19]"
         }
       ]
+    },
+    {
+      "name": "Clearstory",
+      "vertical": "Construction tech",
+      "product": "Change order communication and workflow SaaS (formerly Extracker)",
+      "hiring_signals": "Mid-Market AE (Specialty Contractor), other AE roles",
+      "contacts": [
+        {
+          "name": "Chris Tzortzis",
+          "title": "VP of Sales",
+          "linkedin": "https://www.linkedin.com/in/chris-tzortzis-90792230",
+          "emails_tried": [
+            {"email": "chris.tzortzis@clearstory.build", "status": "sent 2026-10-20"}
+          ],
+          "notes": "Outreach sent from hello@horizontalentgrp.com. Likely better pattern ctzortzis@clearstory.build. [2026-10-20]"
+        }
+      ]
     }
   ],
-  "last_updated": "2026-10-19"
+  "last_updated": "2026-10-20"
 }
