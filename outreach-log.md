@@ -69,10 +69,11 @@ Tracking outreach from hello@horizontalentgrp.com (Horizon Talent Grp). Always i
 - LinkedIn: https://www.linkedin.com/in/chris-tzortzis-90792230
 - Attempts:
   - chris.tzortzis@clearstory.build: bounced 2026-10-20 (permanent 550 5.1.1, account does not exist)
-  - ctzortzis@clearstory.build: sent 2026-10-20 (higher confidence first_initial+last pattern)
+  - ctzortzis@clearstory.build: bounced 2026-10-20 (permanent 550 5.1.1, account does not exist)
+  - chris@clearstory.build: scheduled +1 hour (scheduleType 1, html format for full signature including image)
 - Sources: clearstory.build/about-us (leadership), LinkedIn, RocketReach/ContactOut, job boards
-- Status: Bounce on first pattern. Retry sent to ctzortzis@clearstory.build (Message ID: 1792502334163155100). Monitor for delivery.
-- Notes: Actively hiring multiple AE roles. Series B ~$16M. Construction change order / T&M workflow SaaS. Next fallbacks if needed: chris@clearstory.build, sales@clearstory.build.
+- Status: Two patterns bounced. Next (first name only) scheduled for ~1 hour from now. Continue interval retries if needed (c.tzortzis@, sales@, info@, jobs@).
+- Notes: Actively hiring multiple AE roles. Series B ~$16M. Construction change order / T&M workflow SaaS. Use html + includeSignature for image signature going forward.
 
 ## SiteAware
 - Date: 2026-10-20
@@ -84,7 +85,7 @@ Tracking outreach from hello@horizontalentgrp.com (Horizon Talent Grp). Always i
 - Likely direct patterns: zbraude@siteaware.com, z.braude@siteaware.com, zeev.braude@siteaware.com (SignalHire/Growjo masked z* e@siteaware.com)
 - Other: Jobs@siteaware.com (recruiting)
 - Sources: LinkedIn company jobs, SignalHire, Prospeo email formats (common first_initial.last)
-- Status: Outreach email sent from hello@horizontalentgrp.com (includeSignature true). Message ID: 1792502200198155300
+- Status: Outreach email sent from hello@horizontalentgrp.com (includeSignature true). Message ID: 1792502200198155300. Note: plaintext format so image signature may not have rendered; use html for future.
 - Notes: AI-powered Digital Construction Verification platform. ~11-50 employees, Austin/Houston TX presence. Recent Enterprise AE hiring confirmed.
 
 ## Cadence Notes
@@ -92,5 +93,6 @@ Tracking outreach from hello@horizontalentgrp.com (Horizon Talent Grp). Always i
 - Contingency model preferred
 - Update this log after each send and reply tracking
 - Email pattern protocol (see README): Research format percentages first. Prefer highest-confidence pattern or start with public info@/jobs@/sales@ when direct is uncertain. On bounce, immediately try next pattern. Never repeat a failed address.
+- For signatures with images: use mailFormat html + includeSignature true (plaintext does not embed images).
 
 Last updated: 2026-10-20
