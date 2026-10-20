@@ -56,4 +56,13 @@
   - Hiring signals: Multiple open AE and SDR roles (Mid-Market AE, Enterprise AE, Corporate AE, etc.)
   - Notes: Confirmed VP Sales via company site and LinkedIn. kevin@ inactive. [2026-10-19]
 
+## Clearstory
+- **Chris Tzortzis** - VP of Sales
+  - LinkedIn: https://www.linkedin.com/in/chris-tzortzis-90792230
+  - Company: Clearstory (construction change order / T&M workflow SaaS, clearstory.build)
+  - Email sent: chris.tzortzis@clearstory.build (2026-10-20 from hello@horizontalentgrp.com)
+  - Likely stronger patterns: ctzortzis@clearstory.build (first_initial+last, ~95% common), chris@clearstory.build
+  - Hiring: Mid-Market Account Executive (Specialty Contractor), other AE roles
+  - Notes: Outreach sent. Series B. [2026-10-20]
+
 *Update emails and LinkedIn as verified. Prefer verified over guessed patterns.*
