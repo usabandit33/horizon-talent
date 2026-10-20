@@ -65,4 +65,14 @@
   - Hiring: Mid-Market Account Executive (Specialty Contractor), other AE roles
   - Notes: Outreach sent. Series B. [2026-10-20]
 
+## SiteAware
+- **Zeev Braude** - Co-founder, President and Chief Revenue Officer
+  - LinkedIn: https://il.linkedin.com/in/zeev-braude-b78525
+  - Company: SiteAware (AI Digital Construction Verification, siteaware.com)
+  - Email sent: info@siteaware.com (2026-10-20 from hello@horizontalentgrp.com, addressed to Zeev)
+  - Likely direct: zbraude@siteaware.com, z.braude@siteaware.com, zeev.braude@siteaware.com
+  - Other: Jobs@siteaware.com
+  - Hiring: Enterprise SaaS Account Executive (U.S. commercial construction)
+  - Notes: Outreach sent. Austin/Houston presence. [2026-10-20]
+
 *Update emails and LinkedIn as verified. Prefer verified over guessed patterns.*
