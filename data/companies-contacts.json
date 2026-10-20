@@ -1,1 +1,162 @@
-$(cat /tmp/updated_companies.json)
+{
+  "companies": [
+    {
+      "name": "PermitFlow",
+      "vertical": "Construction tech",
+      "product": "AI permitting SaaS",
+      "hiring_signals": "",
+      "contacts": [
+        {
+          "name": "Danny Gothelf",
+          "title": "VP Sales",
+          "linkedin": "",
+          "emails_tried": [],
+          "notes": "Recent outreach target [2026-10-14]"
+        }
+      ]
+    },
+    {
+      "name": "Tread",
+      "vertical": "Construction materials logistics",
+      "product": "Logistics SaaS",
+      "hiring_signals": "Mid-Market AE",
+      "contacts": [
+        {
+          "name": "Tim Chung",
+          "title": "SVP of Solutions",
+          "linkedin": "https://www.linkedin.com/in/timchung",
+          "emails_tried": [{"email": "tim@tread.io", "status": "likely"}],
+          "notes": "[2026-10-15]"
+        }
+      ]
+    },
+    {
+      "name": "XYZ Reality",
+      "vertical": "Engineering-grade AR",
+      "product": "AR for data centers / mission-critical construction",
+      "hiring_signals": "Enterprise AE",
+      "contacts": [
+        {
+          "name": "Waleed Zafar",
+          "title": "CRO",
+          "linkedin": "https://uk.linkedin.com/in/waleed-zafar",
+          "emails_tried": [{"email": "waleed.zafar@xyzreality.com", "status": "likely"}],
+          "notes": "[2026-10-15]"
+        }
+      ]
+    },
+    {
+      "name": "Siteline",
+      "vertical": "Construction billing / AR",
+      "product": "Billing and AR for specialty trade contractors",
+      "hiring_signals": "Account Executive",
+      "contacts": [
+        {
+          "name": "Katie MacKillop",
+          "title": "Head of Sales",
+          "linkedin": "",
+          "emails_tried": [
+            {"email": "kmackillop@siteline.com", "status": "bounced"},
+            {"email": "katie@siteline.com", "status": "delivered"},
+            {"email": "k.mackillop@siteline.com", "status": "bounced"}
+          ],
+          "notes": "Scheduled additional variants 2026-10-16. k.mackillop also bounced."
+        }
+      ]
+    },
+    {
+      "name": "Handoff",
+      "vertical": "AI estimating & ops",
+      "product": "Platform for residential contractors / construction supply chain",
+      "hiring_signals": "Mid-Market / Enterprise AE",
+      "contacts": [
+        {
+          "name": "Logan Creque",
+          "title": "Head of Sales",
+          "linkedin": "https://www.linkedin.com/in/logan-creque",
+          "emails_tried": [{"email": "logan.creque@handoff.ai", "status": "likely"}],
+          "notes": "[2026-10-16]"
+        }
+      ]
+    },
+    {
+      "name": "Miter",
+      "vertical": "Construction HCM",
+      "product": "Payroll, field ops SaaS",
+      "hiring_signals": "Account Executives, Mid-Market Sales Managers",
+      "contacts": [
+        {
+          "name": "Chase Cox",
+          "title": "Head of Sales",
+          "linkedin": "https://www.linkedin.com/in/chase-c-04300070",
+          "emails_tried": [
+            {"email": "chase@miter.com", "status": "bounced"},
+            {"email": "chase.cox@miter.com", "status": "delivered"},
+            {"email": "talent@miter.com", "status": "delivered"},
+            {"email": "chase@miterhr.com", "status": "bounced 2026-10-20"},
+            {"email": "chase.cox@miterhr.com", "status": "bounced 2026-10-20"}
+          ],
+          "notes": "[2026-10-20] miterhr.com variants bounced. Successful on miter.com and talent@."
+        }
+      ]
+    },
+    {
+      "name": "BuildOps",
+      "vertical": "Field service / commercial contractors",
+      "product": "All-in-one FSM / ops platform for commercial specialty contractors",
+      "hiring_signals": "Multiple AE and SDR roles",
+      "contacts": [
+        {
+          "name": "Kevin O'Donnell",
+          "title": "VP of Sales",
+          "linkedin": "https://www.linkedin.com/in/kevinmodonnell",
+          "emails_tried": [
+            {"email": "kevin@buildops.com", "status": "bounced 2026-10-19 inactive"},
+            {"email": "kevin.odonnell@buildops.com", "status": "bounced 2026-10-19"},
+            {"email": "kevinodonnell@buildops.com", "status": "delivered"},
+            {"email": "k.odonnell@buildops.com", "status": "bounced 2026-10-20 550 5.1.1"},
+            {"email": "kodonnell@buildops.com", "status": "bounced 2026-10-20 550 5.1.1"}
+          ],
+          "notes": "VP Sales confirmed. kevinodonnell@ delivered (no bounce). Other patterns bounced. [2026-10-20]"
+        }
+      ]
+    },
+    {
+      "name": "Clearstory",
+      "vertical": "Construction tech",
+      "product": "Change order communication and workflow SaaS (formerly Extracker)",
+      "hiring_signals": "Mid-Market AE (Specialty Contractor), other AE roles",
+      "contacts": [
+        {
+          "name": "Chris Tzortzis",
+          "title": "VP of Sales",
+          "linkedin": "https://www.linkedin.com/in/chris-tzortzis-90792230",
+          "emails_tried": [
+            {"email": "chris.tzortzis@clearstory.build", "status": "bounced 2026-10-20 550 5.1.1"},
+            {"email": "ctzortzis@clearstory.build", "status": "bounced 2026-10-20 550 5.1.1"},
+            {"email": "chris@clearstory.build", "status": "bounced 2026-10-20 550 5.1.1"}
+          ],
+          "notes": "All common patterns bounced with permanent 5.1.1 (account does not exist). Next logical: c.tzortzis@clearstory.build or info@clearstory.build. No successful delivery yet. [2026-10-20]"
+        }
+      ]
+    },
+    {
+      "name": "SiteAware",
+      "vertical": "Construction tech",
+      "product": "AI-powered Digital Construction Verification platform",
+      "hiring_signals": "Enterprise SaaS Account Executive (U.S. commercial construction)",
+      "contacts": [
+        {
+          "name": "Zeev Braude",
+          "title": "Co-founder, President and Chief Revenue Officer",
+          "linkedin": "https://il.linkedin.com/in/zeev-braude-b78525",
+          "emails_tried": [
+            {"email": "info@siteaware.com", "status": "delivered"}
+          ],
+          "notes": "Outreach sent from hello@horizontalentgrp.com to public info@ (addressed to Zeev). No bounce observed. Likely directs: zbraude@, z.braude@, zeev.braude@. Also Jobs@siteaware.com. [2026-10-20]"
+        }
+      ]
+    }
+  ],
+  "last_updated": "2026-10-20"
+}
