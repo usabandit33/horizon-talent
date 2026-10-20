@@ -91,5 +91,6 @@ Tracking outreach from hello@horizontalentgrp.com (Horizon Talent Grp). Always i
 - Lean daily outreach: one company/role per day while employed full-time
 - Contingency model preferred
 - Update this log after each send and reply tracking
+- Email pattern protocol (see README): Research format percentages first. Prefer highest-confidence pattern or start with public info@/jobs@/sales@ when direct is uncertain. On bounce, immediately try next pattern. Never repeat a failed address.
 
 Last updated: 2026-10-20
