@@ -78,84 +78,96 @@
 ## Linarc
 - **Shanthi Rajan** - CEO & Founder
   - Company: Linarc (construction tech / project management platform, linarc.com)
+  - LinkedIn: https://www.linkedin.com/in/rajanshanthi
   - Public emails: sales@linarc.com, info@linarc.com, support@linarc.com
   - Likely directs: shanthi@linarc.com, shanthi.rajan@linarc.com, srajan@linarc.com
   - Hiring: Account Executive Construction Technology, Sales Development Representative (live on careers)
-  - Notes: Strong live hiring signal. No verified personal email yet. Prefer sales@ or info@ first. [2026-10-20]
+  - Notes: Strong live hiring signal. LinkedIn connection request sent 2026-10-20. Prefer sales@ or info@ first. [2026-10-20]
 
 ## Fleetio
 - **Ben Nachbaur** - Chief Revenue Officer
   - Company: Fleetio (fleet management SaaS, fleetio.com)
+  - LinkedIn: (profile URL not confirmed in public search; listed on Fleetio leadership page)
   - Masked pattern: b********@fleetio.com
   - Likely: ben@fleetio.com, ben.nachbaur@fleetio.com, bnachbaur@fleetio.com
   - Public: hello@fleetio.com
   - Hiring: AE Mid-Market, AE SMB, Regional Sales Manager Mid-Market
-  - Notes: Confirmed CRO. [2026-10-20]
+  - Notes: Confirmed CRO. LinkedIn connection request sent 2026-10-20. [2026-10-20]
 - **Tyson Goeltz** - prior CRO (confirm current status)
+  - LinkedIn: https://www.linkedin.com/in/tgoeltz
   - Likely: tyson@fleetio.com, tgoeltz@fleetio.com, tyson.goeltz@fleetio.com
-  - Notes: Appointed 2023, current role needs confirmation before primary outreach. [2026-10-20]
+  - Notes: Appointed 2023, current role needs confirmation before primary outreach. LinkedIn connection request sent 2026-10-20. [2026-10-20]
 
 ## Bringg
 - **Jeff Eissinger** - Senior Vice President and General Manager, North America
   - Company: Bringg (logistics SaaS / last-mile, bringg.com)
+  - LinkedIn: https://www.linkedin.com/in/jeffeissinger
   - Likely: jeff@bringg.com, jeff.eissinger@bringg.com, jeissinger@bringg.com
   - Hiring: Senior Account Executive U.S.
-  - Notes: Leads sales and customer success in largest market. [2026-10-20]
+  - Notes: Leads sales and customer success in largest market. LinkedIn connection request sent 2026-10-20. [2026-10-20]
 - **Guy Bloch** - CEO
+  - LinkedIn: https://il.linkedin.com/in/guybloch
   - Reported: guybloch@bringg.com, guy@bringg.com
-  - Notes: Verified in some sources, use with caution. [2026-10-20]
+  - Notes: Verified in some sources, use with caution. LinkedIn connection request sent 2026-10-20. [2026-10-20]
 
 ## Altana
 - **Evan Smith** - Co-founder and CEO
   - Company: Altana (supply chain / global trade AI network, altana.ai)
+  - LinkedIn: https://www.linkedin.com/in/evan-smith-39516b8
   - Likely: evan@altana.ai, evan.smith@altana.ai, esmith@altana.ai
   - Hiring: Account Executive Enterprise, Account Executive Logistics
-  - Notes: Live openings. Prefer verified public contact first. [2026-10-20]
+  - Notes: Live openings. Prefer verified public contact first. LinkedIn connection request sent 2026-10-20. [2026-10-20]
 - **John Capaldi** - CRO
+  - LinkedIn: https://www.linkedin.com/in/johncapaldi
   - Likely: john@altana.ai, john.capaldi@altana.ai, jcapaldi@altana.ai
-  - Notes: Direct email not publicly confirmed. [2026-10-20]
+  - Notes: Direct email not publicly confirmed. LinkedIn connection request sent 2026-10-20. [2026-10-20]
 
 ## Afresh
 - **Adam Litle** - Chief Revenue Officer
   - Company: Afresh (AI for fresh retail / supply chain, afresh.com)
+  - LinkedIn: https://www.linkedin.com/in/adamlitle
   - Masked: a***@afresh.com
   - Bounced: alitle@afresh.com (550 5.1.1 permanent, 2026-10-20)
-  - Alternatives still in drafts / to try: adam@afresh.com, adam.litle@afresh.com
+  - Alternatives sent: adam@afresh.com, adam.litle@afresh.com
   - Public fallback: support@afresh.com (technical, not ideal)
   - Hiring: Enterprise Account Executive remote U.S.
-  - Notes: 70% revenue growth reported. Joined as CRO. alitle@ retired. [2026-10-20]
+  - Notes: 70% revenue growth reported. Joined as CRO. alitle@ retired. LinkedIn connection request sent 2026-10-20. [2026-10-20]
 
 ## WorkWave
 - **John Ortwerth** - Chief Revenue Officer
   - Company: WorkWave (field service SaaS, workwave.com)
+  - LinkedIn: https://www.linkedin.com/in/john-ortwerth-15505121
   - Common formats: first.last (65%+), firstinitiallast
   - Bounced: john@workwave.com (address not found, 2026-10-20)
-  - Alternatives still in drafts / to try: john.ortwerth@workwave.com, jortwerth@workwave.com
+  - Alternatives sent: john.ortwerth@workwave.com, jortwerth@workwave.com
   - Hiring: Mid-Market Account Executive (confirm requisition still open)
-  - Notes: CRO oversees sales and business development. john@ retired. [2026-10-20]
+  - Notes: CRO oversees sales and business development. john@ retired. LinkedIn connection request sent 2026-10-20. [2026-10-20]
 
 ## EverPro (EverCommerce)
 - **Joe de Craen** - SVP, Head of Sales and Partnerships for EverPro
   - Company: EverPro / EverCommerce (home and field service vertical SaaS, evercommerce.com)
+  - LinkedIn: https://www.linkedin.com/in/joe-de-craen-74180a12
   - Common format: firstinitiallast@evercommerce.com
   - Bounced: joe@evercommerce.com (550 5.4.1 recipient address rejected, 2026-10-20)
-  - Alternatives still in drafts / to try: jdecraen@evercommerce.com, joe.decraen@evercommerce.com
+  - Alternatives sent: jdecraen@evercommerce.com, joe.decraen@evercommerce.com
   - Hiring: Cross-sell Account Executive (confirm still open)
-  - Notes: Recent leadership updates. joe@ retired. [2026-10-20]
+  - Notes: Recent leadership updates. joe@ retired. LinkedIn connection request sent 2026-10-20. [2026-10-20]
 
 ## Clue Insights
 - **Oded Ran** - Co-founder and CEO
   - Company: Clue Insights (construction fleet SaaS, getclue.com)
+  - LinkedIn: https://www.linkedin.com/in/odedran
   - Public: oded@getclue.com (published on About page)
-  - Notes: Highest confidence direct email of the new set. Verify before volume send. Hiring AE construction technology. [2026-10-20]
+  - Notes: Highest confidence direct email of the new set. LinkedIn connection request sent 2026-10-20. Hiring AE construction technology. [2026-10-20]
 
 ## Kargo
 - **Harry Kargman** - Founder and CEO
   - Company: Kargo (logistics tech / freight visibility, kargo.com)
+  - LinkedIn: https://www.linkedin.com/in/harrykargman
   - Masked: h****@kargo.com
   - Likely: harry@kargo.com, harry.kargman@kargo.com, hkargman@kargo.com
   - Public: mobilize@kargo.com
   - Hiring: Enterprise Account Executive SF or remote
-  - Notes: Confirm current title and reporting line. [2026-10-20]
+  - Notes: Confirm current title and reporting line. LinkedIn connection request sent 2026-10-20. [2026-10-20]
 
-*Update emails and LinkedIn as verified. Prefer verified over guessed patterns. Bounce log updated 2026-10-20.*
+*Update emails and LinkedIn as verified. Prefer verified over guessed patterns. LinkedIn connection requests sent to all listed new contacts on 2026-10-20 for future reference.*
