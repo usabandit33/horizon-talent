@@ -134,9 +134,10 @@
           "emails_tried": [
             {"email": "chris.tzortzis@clearstory.build", "status": "bounced 2026-10-20 550 5.1.1"},
             {"email": "ctzortzis@clearstory.build", "status": "bounced 2026-10-20 550 5.1.1"},
-            {"email": "chris@clearstory.build", "status": "bounced 2026-10-20 550 5.1.1"}
+            {"email": "chris@clearstory.build", "status": "bounced 2026-10-20 550 5.1.1"},
+            {"email": "c.tzortzis@clearstory.build", "status": "sent 2026-10-20"}
           ],
-          "notes": "All common patterns bounced with permanent 5.1.1 (account does not exist). Next logical: c.tzortzis@clearstory.build or info@clearstory.build. No successful delivery yet. [2026-10-20]"
+          "notes": "Prior patterns bounced with permanent 5.1.1. Sent next logical c.tzortzis@clearstory.build with signature. Also consider info@clearstory.build if this bounces. [2026-10-20]"
         }
       ]
     },
