@@ -157,6 +157,211 @@
           "notes": "Outreach sent from hello@horizontalentgrp.com to public info@ (addressed to Zeev). No bounce observed. Likely directs: zbraude@, z.braude@, zeev.braude@. Also Jobs@siteaware.com. [2026-10-20]"
         }
       ]
+    },
+    {
+      "name": "Linarc",
+      "vertical": "Construction tech",
+      "product": "Construction project management platform",
+      "hiring_signals": "Account Executive Construction Technology, Sales Development Representative",
+      "contacts": [
+        {
+          "name": "Shanthi Rajan",
+          "title": "CEO & Founder",
+          "linkedin": "",
+          "emails_tried": [
+            {"email": "sales@linarc.com", "status": "public"},
+            {"email": "info@linarc.com", "status": "public"},
+            {"email": "shanthi@linarc.com", "status": "likely"},
+            {"email": "shanthi.rajan@linarc.com", "status": "likely"},
+            {"email": "srajan@linarc.com", "status": "likely"}
+          ],
+          "notes": "Live openings confirmed on careers. Prefer public sales@ or info@ first. [2026-10-20]"
+        }
+      ]
+    },
+    {
+      "name": "Fleetio",
+      "vertical": "Fleet management SaaS",
+      "product": "Fleet maintenance and operations software",
+      "hiring_signals": "Account Executive Mid-Market, Account Executive SMB, Regional Sales Manager Mid-Market",
+      "contacts": [
+        {
+          "name": "Ben Nachbaur",
+          "title": "Chief Revenue Officer",
+          "linkedin": "",
+          "emails_tried": [
+            {"email": "hello@fleetio.com", "status": "public"},
+            {"email": "ben@fleetio.com", "status": "likely"},
+            {"email": "ben.nachbaur@fleetio.com", "status": "likely"},
+            {"email": "bnachbaur@fleetio.com", "status": "likely"}
+          ],
+          "notes": "Confirmed CRO. [2026-10-20]"
+        },
+        {
+          "name": "Tyson Goeltz",
+          "title": "prior CRO (confirm current)",
+          "linkedin": "",
+          "emails_tried": [
+            {"email": "tyson@fleetio.com", "status": "likely"},
+            {"email": "tgoeltz@fleetio.com", "status": "likely"},
+            {"email": "tyson.goeltz@fleetio.com", "status": "likely"}
+          ],
+          "notes": "Appointed 2023. Confirm role before primary outreach. [2026-10-20]"
+        }
+      ]
+    },
+    {
+      "name": "Bringg",
+      "vertical": "Logistics SaaS",
+      "product": "Last-mile delivery and logistics performance",
+      "hiring_signals": "Senior Account Executive U.S.",
+      "contacts": [
+        {
+          "name": "Jeff Eissinger",
+          "title": "Senior Vice President and General Manager, North America",
+          "linkedin": "",
+          "emails_tried": [
+            {"email": "jeff@bringg.com", "status": "likely"},
+            {"email": "jeff.eissinger@bringg.com", "status": "likely"},
+            {"email": "jeissinger@bringg.com", "status": "likely"}
+          ],
+          "notes": "Leads sales and CS in largest market. [2026-10-20]"
+        },
+        {
+          "name": "Guy Bloch",
+          "title": "CEO",
+          "linkedin": "",
+          "emails_tried": [
+            {"email": "guybloch@bringg.com", "status": "reported"},
+            {"email": "guy@bringg.com", "status": "reported"}
+          ],
+          "notes": "Reported in sources, not independently verified by company. Use caution. [2026-10-20]"
+        }
+      ]
+    },
+    {
+      "name": "Altana",
+      "vertical": "Supply chain SaaS",
+      "product": "AI network for global trade and supply chain intelligence",
+      "hiring_signals": "Account Executive Enterprise, Account Executive Logistics",
+      "contacts": [
+        {
+          "name": "Evan Smith",
+          "title": "Co-founder and CEO",
+          "linkedin": "",
+          "emails_tried": [
+            {"email": "evan@altana.ai", "status": "likely"},
+            {"email": "evan.smith@altana.ai", "status": "likely"},
+            {"email": "esmith@altana.ai", "status": "likely"}
+          ],
+          "notes": "Live openings. Prefer public contact first. [2026-10-20]"
+        },
+        {
+          "name": "John Capaldi",
+          "title": "CRO",
+          "linkedin": "",
+          "emails_tried": [
+            {"email": "john@altana.ai", "status": "likely"},
+            {"email": "john.capaldi@altana.ai", "status": "likely"},
+            {"email": "jcapaldi@altana.ai", "status": "likely"}
+          ],
+          "notes": "Direct email not publicly confirmed. [2026-10-20]"
+        }
+      ]
+    },
+    {
+      "name": "Afresh",
+      "vertical": "Supply chain / retail operations",
+      "product": "AI for fresh food merchandising, ordering, operations",
+      "hiring_signals": "Enterprise Account Executive remote U.S.",
+      "contacts": [
+        {
+          "name": "Adam Litle",
+          "title": "Chief Revenue Officer",
+          "linkedin": "",
+          "emails_tried": [
+            {"email": "adam@afresh.com", "status": "likely"},
+            {"email": "adam.litle@afresh.com", "status": "likely"},
+            {"email": "alitle@afresh.com", "status": "likely"}
+          ],
+          "notes": "70% revenue growth reported. Joined as CRO. [2026-10-20]"
+        }
+      ]
+    },
+    {
+      "name": "WorkWave",
+      "vertical": "Field service SaaS",
+      "product": "Software for pest control, lawn care, cleaning, mobile services",
+      "hiring_signals": "Mid-Market Account Executive (confirm still open)",
+      "contacts": [
+        {
+          "name": "John Ortwerth",
+          "title": "Chief Revenue Officer",
+          "linkedin": "",
+          "emails_tried": [
+            {"email": "john.ortwerth@workwave.com", "status": "likely"},
+            {"email": "jortwerth@workwave.com", "status": "likely"},
+            {"email": "john@workwave.com", "status": "likely"}
+          ],
+          "notes": "Common pattern first.last ~65%. CRO oversees sales. [2026-10-20]"
+        }
+      ]
+    },
+    {
+      "name": "EverPro",
+      "vertical": "Home and field service SaaS",
+      "product": "Vertical software for scheduling, estimating, invoicing home services",
+      "hiring_signals": "Cross-sell Account Executive (confirm still open)",
+      "contacts": [
+        {
+          "name": "Joe de Craen",
+          "title": "SVP, Head of Sales and Partnerships for EverPro",
+          "linkedin": "",
+          "emails_tried": [
+            {"email": "jdecraen@evercommerce.com", "status": "likely"},
+            {"email": "joe.decraen@evercommerce.com", "status": "likely"},
+            {"email": "joe@evercommerce.com", "status": "likely"}
+          ],
+          "notes": "EverCommerce domain. Common format firstinitiallast. [2026-10-20]"
+        }
+      ]
+    },
+    {
+      "name": "Clue Insights",
+      "vertical": "Construction fleet SaaS",
+      "product": "Fleet and operations software for heavy construction",
+      "hiring_signals": "Account Executive construction technology",
+      "contacts": [
+        {
+          "name": "Oded Ran",
+          "title": "Co-founder and CEO",
+          "linkedin": "",
+          "emails_tried": [
+            {"email": "oded@getclue.com", "status": "public"}
+          ],
+          "notes": "Published on company About page. Highest confidence direct of new set. [2026-10-20]"
+        }
+      ]
+    },
+    {
+      "name": "Kargo",
+      "vertical": "Logistics technology",
+      "product": "Sensor hardware + software for freight and loading-dock visibility",
+      "hiring_signals": "Enterprise Account Executive SF or remote",
+      "contacts": [
+        {
+          "name": "Harry Kargman",
+          "title": "Founder and CEO",
+          "linkedin": "",
+          "emails_tried": [
+            {"email": "harry@kargo.com", "status": "likely"},
+            {"email": "harry.kargman@kargo.com", "status": "likely"},
+            {"email": "hkargman@kargo.com", "status": "likely"},
+            {"email": "mobilize@kargo.com", "status": "public"}
+          ],
+          "notes": "Confirm current title. [2026-10-20]"
+        }
+      ]
     }
   ],
   "last_updated": "2026-10-20"

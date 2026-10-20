@@ -30,4 +30,8 @@ This repository tracks researched target companies, key contacts, hiring signals
 - Always include default signature on outgoing emails
 - Bounce and Status Monitor automation checks Zoho and updates data/ files
 
+## Recent Updates
+
+2026-10-20: Added Linarc, Fleetio, Bringg, Altana, Afresh, WorkWave, EverPro, Clue Insights, Kargo with contacts, public emails, and best-guess patterns for scheduling.
+
 Last updated: 2026-10-20
