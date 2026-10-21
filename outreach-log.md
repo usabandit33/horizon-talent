@@ -88,24 +88,14 @@ Tracking outreach from hello@horizontalentgrp.com (Horizon Talent Grp). Always i
 - Status: Outreach email sent from hello@horizontalentgrp.com (includeSignature true). Message ID: 1792502200198155300. Note: plaintext format so image signature may not have rendered; use html for future.
 - Notes: AI-powered Digital Construction Verification platform. ~11-50 employees, Austin/Houston TX presence. Recent Enterprise AE hiring confirmed.
 
-## Buildforce
-- Date: 2026-10-21
-- Contact: Reid Simpson, Founder & CEO
-- LinkedIn: https://www.linkedin.com/in/reid-simpson
-- Role: Account Executive
-- Public: support@buildforce.com
-- Likely: reid@buildforce.com
-- Status: Draft prepared (short format). Zoho draft pending tool availability.
-- Notes: Construction Tech / Proptech SaaS. SUPPORTED LIKELY PATTERN.
-
 ## EliseAI
 - Date: 2026-10-21
 - Contact: Minna Song, Co-Founder & CEO
 - LinkedIn: https://www.linkedin.com/in/minna-song
 - Role: Strategic Sales Manager | Housing
 - Verified: sales@eliseai.com
-- Status: Draft prepared (short format). Zoho draft pending tool availability.
-- Notes: VERIFIED PUBLIC INBOX.
+- Status: Zoho draft created. MessageId: 1792612028514138300
+- Notes: VERIFIED PUBLIC INBOX. Short format, html, includeSignature true.
 
 ## Canary Technologies
 - Date: 2026-10-21
@@ -113,17 +103,8 @@ Tracking outreach from hello@horizontalentgrp.com (Horizon Talent Grp). Always i
 - LinkedIn: https://www.linkedin.com/in/harman-singh
 - Role: Mid-Market Account Executive
 - Verified: sales@canarytechnologies.com
-- Status: Draft prepared (short format). Zoho draft pending tool availability.
-- Notes: VERIFIED PUBLIC INBOX.
-
-## Roofr
-- Date: 2026-10-21
-- Contact: Richard Robbins, Founder & CEO
-- LinkedIn: https://www.linkedin.com/in/richard-robbins
-- Role: Field Sales Development Representative
-- Likely: richard@roofr.com
-- Status: Draft prepared (short format). Zoho draft pending tool availability.
-- Notes: SUPPORTED LIKELY PATTERN.
+- Status: Zoho draft created. MessageId: 1792612094896138400
+- Notes: VERIFIED PUBLIC INBOX. Short format, html, includeSignature true.
 
 ## Canopy Connect
 - Date: 2026-10-21
@@ -131,8 +112,8 @@ Tracking outreach from hello@horizontalentgrp.com (Horizon Talent Grp). Always i
 - LinkedIn: https://www.linkedin.com/in/tolgatezel
 - Role: Real Estate SaaS Enterprise Account Executive
 - Verified: support@usecanopy.com
-- Status: Draft prepared (short format). Zoho draft pending tool availability.
-- Notes: VERIFIED PUBLIC INBOX.
+- Status: Zoho draft created. MessageId: 1792612144486155300
+- Notes: VERIFIED PUBLIC INBOX. Short format, html, includeSignature true.
 
 ## Field Materials
 - Date: 2026-10-21
@@ -140,17 +121,8 @@ Tracking outreach from hello@horizontalentgrp.com (Horizon Talent Grp). Always i
 - LinkedIn: https://www.linkedin.com/in/arash-shirazi
 - Role: SaaS Account Executive
 - Verified: support@fieldmaterials.com
-- Status: Draft prepared (short format). Zoho draft pending tool availability.
-- Notes: VERIFIED PUBLIC INBOX.
-
-## Vendelux
-- Date: 2026-10-21
-- Contact: Alexandro Pelaez, Co-Founder & CEO
-- LinkedIn: https://www.linkedin.com/in/alexandropelaez
-- Role: Mid-Market Account Executive
-- Likely: alexandro@vendelux.com
-- Status: Draft prepared (short format). Zoho draft pending tool availability.
-- Notes: SUPPORTED LIKELY PATTERN.
+- Status: Zoho draft created. MessageId: 1792612193564155100
+- Notes: VERIFIED PUBLIC INBOX. Short format, html, includeSignature true.
 
 ## Orum
 - Date: 2026-10-21
@@ -158,8 +130,8 @@ Tracking outreach from hello@horizontalentgrp.com (Horizon Talent Grp). Always i
 - LinkedIn: https://www.linkedin.com/in/stephany-kirkpatrick
 - Role: Enterprise Account Executive
 - Verified: sales@orum.io
-- Status: Draft prepared (short format). Zoho draft pending tool availability.
-- Notes: VERIFIED PUBLIC INBOX.
+- Status: Zoho draft created. MessageId: 1792612231259155000
+- Notes: VERIFIED PUBLIC INBOX. Short format, html, includeSignature true.
 
 ## Tulip Interfaces
 - Date: 2026-10-21
@@ -167,8 +139,8 @@ Tracking outreach from hello@horizontalentgrp.com (Horizon Talent Grp). Always i
 - LinkedIn: https://www.linkedin.com/in/natanlinder
 - Role: Senior Account Executive
 - Verified: contact@tulip.co
-- Status: Draft prepared (short format). Zoho draft pending tool availability.
-- Notes: VERIFIED PUBLIC INBOX.
+- Status: Zoho draft created. MessageId: 1792612276916138400
+- Notes: VERIFIED PUBLIC INBOX. Short format, html, includeSignature true.
 
 ## BlueGrace Logistics
 - Date: 2026-10-21
@@ -176,8 +148,35 @@ Tracking outreach from hello@horizontalentgrp.com (Horizon Talent Grp). Always i
 - LinkedIn: https://www.linkedin.com/in/bobby-harris
 - Role: Enterprise Logistics Account Executive
 - Verified: info@mybluegrace.com
-- Status: Draft prepared (short format). Zoho draft pending tool availability.
-- Notes: VERIFIED PUBLIC INBOX.
+- Status: Zoho draft created. MessageId: 1792612286252155000
+- Notes: VERIFIED PUBLIC INBOX. Short format, html, includeSignature true.
+
+## Buildforce
+- Date: 2026-10-21
+- Contact: Reid Simpson, Founder & CEO
+- LinkedIn: https://www.linkedin.com/in/reid-simpson
+- Role: Account Executive
+- Public: support@buildforce.com
+- Status: Zoho draft created. MessageId: 1792612293797138400
+- Notes: SUPPORTED LIKELY PATTERN. Short format, html, includeSignature true.
+
+## Roofr
+- Date: 2026-10-21
+- Contact: Richard Robbins, Founder & CEO
+- LinkedIn: https://www.linkedin.com/in/richard-robbins
+- Role: Field Sales Development Representative
+- Likely: richard@roofr.com
+- Status: Zoho draft created. MessageId: 1792612299456138300
+- Notes: SUPPORTED LIKELY PATTERN. Short format, html, includeSignature true.
+
+## Vendelux
+- Date: 2026-10-21
+- Contact: Alexandro Pelaez, Co-Founder & CEO
+- LinkedIn: https://www.linkedin.com/in/alexandropelaez
+- Role: Mid-Market Account Executive
+- Likely: alexandro@vendelux.com
+- Status: Zoho draft created. MessageId: 1792612313113138400
+- Notes: SUPPORTED LIKELY PATTERN. Short format, html, includeSignature true.
 
 ## Cadence Notes
 - Lean daily outreach: one company/role per day while employed full-time
