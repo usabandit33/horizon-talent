@@ -88,6 +88,97 @@ Tracking outreach from hello@horizontalentgrp.com (Horizon Talent Grp). Always i
 - Status: Outreach email sent from hello@horizontalentgrp.com (includeSignature true). Message ID: 1792502200198155300. Note: plaintext format so image signature may not have rendered; use html for future.
 - Notes: AI-powered Digital Construction Verification platform. ~11-50 employees, Austin/Houston TX presence. Recent Enterprise AE hiring confirmed.
 
+## Buildforce
+- Date: 2026-10-21
+- Contact: Reid Simpson, Founder & CEO
+- LinkedIn: https://www.linkedin.com/in/reid-simpson
+- Role: Account Executive
+- Public: support@buildforce.com
+- Likely: reid@buildforce.com
+- Status: Draft prepared (short format). Zoho draft pending tool availability.
+- Notes: Construction Tech / Proptech SaaS. SUPPORTED LIKELY PATTERN.
+
+## EliseAI
+- Date: 2026-10-21
+- Contact: Minna Song, Co-Founder & CEO
+- LinkedIn: https://www.linkedin.com/in/minna-song
+- Role: Strategic Sales Manager | Housing
+- Verified: sales@eliseai.com
+- Status: Draft prepared (short format). Zoho draft pending tool availability.
+- Notes: VERIFIED PUBLIC INBOX.
+
+## Canary Technologies
+- Date: 2026-10-21
+- Contact: Harman Singh, Co-Founder & President
+- LinkedIn: https://www.linkedin.com/in/harman-singh
+- Role: Mid-Market Account Executive
+- Verified: sales@canarytechnologies.com
+- Status: Draft prepared (short format). Zoho draft pending tool availability.
+- Notes: VERIFIED PUBLIC INBOX.
+
+## Roofr
+- Date: 2026-10-21
+- Contact: Richard Robbins, Founder & CEO
+- LinkedIn: https://www.linkedin.com/in/richard-robbins
+- Role: Field Sales Development Representative
+- Likely: richard@roofr.com
+- Status: Draft prepared (short format). Zoho draft pending tool availability.
+- Notes: SUPPORTED LIKELY PATTERN.
+
+## Canopy Connect
+- Date: 2026-10-21
+- Contact: Tolga Tezel, Founder & CEO
+- LinkedIn: https://www.linkedin.com/in/tolgatezel
+- Role: Real Estate SaaS Enterprise Account Executive
+- Verified: support@usecanopy.com
+- Status: Draft prepared (short format). Zoho draft pending tool availability.
+- Notes: VERIFIED PUBLIC INBOX.
+
+## Field Materials
+- Date: 2026-10-21
+- Contact: Arash Shirazi, Co-Founder & CEO
+- LinkedIn: https://www.linkedin.com/in/arash-shirazi
+- Role: SaaS Account Executive
+- Verified: support@fieldmaterials.com
+- Status: Draft prepared (short format). Zoho draft pending tool availability.
+- Notes: VERIFIED PUBLIC INBOX.
+
+## Vendelux
+- Date: 2026-10-21
+- Contact: Alexandro Pelaez, Co-Founder & CEO
+- LinkedIn: https://www.linkedin.com/in/alexandropelaez
+- Role: Mid-Market Account Executive
+- Likely: alexandro@vendelux.com
+- Status: Draft prepared (short format). Zoho draft pending tool availability.
+- Notes: SUPPORTED LIKELY PATTERN.
+
+## Orum
+- Date: 2026-10-21
+- Contact: Stephany Kirkpatrick, Founder & CEO
+- LinkedIn: https://www.linkedin.com/in/stephany-kirkpatrick
+- Role: Enterprise Account Executive
+- Verified: sales@orum.io
+- Status: Draft prepared (short format). Zoho draft pending tool availability.
+- Notes: VERIFIED PUBLIC INBOX.
+
+## Tulip Interfaces
+- Date: 2026-10-21
+- Contact: Natan Linder, Co-Founder & CEO
+- LinkedIn: https://www.linkedin.com/in/natanlinder
+- Role: Senior Account Executive
+- Verified: contact@tulip.co
+- Status: Draft prepared (short format). Zoho draft pending tool availability.
+- Notes: VERIFIED PUBLIC INBOX.
+
+## BlueGrace Logistics
+- Date: 2026-10-21
+- Contact: Bobby Harris, Founder & CEO
+- LinkedIn: https://www.linkedin.com/in/bobby-harris
+- Role: Enterprise Logistics Account Executive
+- Verified: info@mybluegrace.com
+- Status: Draft prepared (short format). Zoho draft pending tool availability.
+- Notes: VERIFIED PUBLIC INBOX.
+
 ## Cadence Notes
 - Lean daily outreach: one company/role per day while employed full-time
 - Contingency model preferred
@@ -95,4 +186,4 @@ Tracking outreach from hello@horizontalentgrp.com (Horizon Talent Grp). Always i
 - Email pattern protocol (see README): Research format percentages first. Prefer highest-confidence pattern or start with public info@/jobs@/sales@ when direct is uncertain. On bounce, immediately try next pattern. Never repeat a failed address.
 - For signatures with images: use mailFormat html + includeSignature true (plaintext does not embed images).
 
-Last updated: 2026-10-20
+Last updated: 2026-10-21

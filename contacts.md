@@ -170,4 +170,85 @@
   - Hiring: Enterprise Account Executive SF or remote
   - Notes: Confirm current title and reporting line. LinkedIn connection request sent 2026-10-20. [2026-10-20]
 
-*Update emails and LinkedIn as verified. Prefer verified over guessed patterns. LinkedIn connection requests sent to all listed new contacts on 2026-10-20 for future reference.*
+## Buildforce
+- **Reid Simpson** - Founder & CEO
+  - Company: Buildforce (construction tech / proptech SaaS, buildforce.com)
+  - LinkedIn: https://www.linkedin.com/in/reid-simpson
+  - Public: support@buildforce.com
+  - Likely: reid@buildforce.com
+  - Hiring: Account Executive (Southeast/NC market)
+  - Notes: SUPPORTED LIKELY PATTERN. Draft prepared 2026-10-21.
+
+## EliseAI
+- **Minna Song** - Co-Founder & CEO
+  - Company: EliseAI (proptech / AI SaaS, eliseai.com)
+  - LinkedIn: https://www.linkedin.com/in/minna-song
+  - Verified public: sales@eliseai.com
+  - Hiring: Strategic Sales Manager | Housing
+  - Notes: VERIFIED PUBLIC INBOX. Draft prepared 2026-10-21.
+
+## Canary Technologies
+- **Harman Singh** - Co-Founder & President
+  - Company: Canary Technologies (proptech / hospitality SaaS)
+  - LinkedIn: https://www.linkedin.com/in/harman-singh
+  - Verified public: sales@canarytechnologies.com
+  - Hiring: Mid-Market Account Executive
+  - Notes: VERIFIED PUBLIC INBOX. Draft prepared 2026-10-21.
+
+## Roofr
+- **Richard Robbins** - Founder & CEO
+  - Company: Roofr (construction tech SaaS, roofr.com)
+  - LinkedIn: https://www.linkedin.com/in/richard-robbins
+  - Likely: richard@roofr.com
+  - Hiring: Field Sales Development Representative
+  - Notes: SUPPORTED LIKELY PATTERN. Draft prepared 2026-10-21.
+
+## Canopy Connect
+- **Tolga Tezel** - Founder & CEO
+  - Company: Canopy Connect (proptech / insurtech SaaS, usecanopy.com)
+  - LinkedIn: https://www.linkedin.com/in/tolgatezel
+  - Verified public: support@usecanopy.com
+  - Hiring: Real Estate SaaS Enterprise Account Executive
+  - Notes: VERIFIED PUBLIC INBOX. Draft prepared 2026-10-21.
+
+## Field Materials
+- **Arash Shirazi** - Co-Founder & CEO
+  - Company: Field Materials (construction tech SaaS, fieldmaterials.com)
+  - LinkedIn: https://www.linkedin.com/in/arash-shirazi
+  - Verified public: support@fieldmaterials.com
+  - Hiring: SaaS Account Executive
+  - Notes: VERIFIED PUBLIC INBOX. Draft prepared 2026-10-21.
+
+## Vendelux
+- **Alexandro Pelaez** - Co-Founder & CEO
+  - Company: Vendelux (enterprise event & logistics intelligence SaaS, vendelux.com)
+  - LinkedIn: https://www.linkedin.com/in/alexandropelaez
+  - Likely: alexandro@vendelux.com
+  - Hiring: Mid-Market Account Executive
+  - Notes: SUPPORTED LIKELY PATTERN. Draft prepared 2026-10-21.
+
+## Orum
+- **Stephany Kirkpatrick** - Founder & CEO
+  - Company: Orum (financial & logistics workflow SaaS, orum.io)
+  - LinkedIn: https://www.linkedin.com/in/stephany-kirkpatrick
+  - Verified public: sales@orum.io
+  - Hiring: Enterprise Account Executive
+  - Notes: VERIFIED PUBLIC INBOX. Draft prepared 2026-10-21.
+
+## Tulip Interfaces
+- **Natan Linder** - Co-Founder & CEO
+  - Company: Tulip Interfaces (field service & operations frontline SaaS, tulip.co)
+  - LinkedIn: https://www.linkedin.com/in/natanlinder
+  - Verified public: contact@tulip.co
+  - Hiring: Senior Account Executive
+  - Notes: VERIFIED PUBLIC INBOX. Draft prepared 2026-10-21.
+
+## BlueGrace Logistics
+- **Bobby Harris** - Founder & CEO
+  - Company: BlueGrace Logistics (supply chain & logistics SaaS, mybluegrace.com)
+  - LinkedIn: https://www.linkedin.com/in/bobby-harris
+  - Verified public: info@mybluegrace.com
+  - Hiring: Enterprise Logistics Account Executive
+  - Notes: VERIFIED PUBLIC INBOX. Draft prepared 2026-10-21.
+
+*Update emails and LinkedIn as verified. Prefer verified over guessed patterns. LinkedIn connection requests sent to all listed new contacts on 2026-10-20 for future reference. New batch drafted 2026-10-21.*
