@@ -130,8 +130,11 @@ Tracking outreach from hello@horizontalentgrp.com (Horizon Talent Grp). Always i
 - LinkedIn: https://www.linkedin.com/in/stephany-kirkpatrick
 - Role: Enterprise Account Executive
 - Verified: sales@orum.io
-- Status: Zoho draft created. MessageId: 1792612231259155000
-- Notes: VERIFIED PUBLIC INBOX. Short format, html, includeSignature true.
+- Status: Zoho draft created earlier (MessageId: 1792612231259155000). Then 3 scheduled variations:
+  - Var1 (scheduleType 1 / +1h): MessageId 1792614802044155000 Subject: Enterprise AE profiles for Orum
+  - Var2 (scheduleType 2 / +2h): MessageId 1792614806424155000 Subject: Quota carrying AE candidates for Orum
+  - Var3 (scheduleType 3 / +4h): MessageId 1792614813110155100 Subject: Relevant AE talent for your Orum team
+- Notes: VERIFIED PUBLIC INBOX. Short format variations, html, includeSignature true. TimeZone America/Denver.
 
 ## Tulip Interfaces
 - Date: 2026-10-21
@@ -175,8 +178,11 @@ Tracking outreach from hello@horizontalentgrp.com (Horizon Talent Grp). Always i
 - LinkedIn: https://www.linkedin.com/in/alexandropelaez
 - Role: Mid-Market Account Executive
 - Likely: alexandro@vendelux.com
-- Status: Zoho draft created. MessageId: 1792612313113138400
-- Notes: SUPPORTED LIKELY PATTERN. Short format, html, includeSignature true.
+- Status: Zoho draft created earlier (MessageId: 1792612313113138400). Then 3 scheduled variations:
+  - Var1 (scheduleType 1 / +1h): MessageId 1792614822413155100 Subject: Mid Market AE candidates for Vendelux
+  - Var2 (scheduleType 2 / +2h): MessageId 1792614825388138300 Subject: Quota carrying AE talent for Vendelux
+  - Var3 (scheduleType 3 / +4h): MessageId 1792614833236155000 Subject: Relevant AE profiles for Vendelux
+- Notes: SUPPORTED LIKELY PATTERN. Short format variations, html, includeSignature true. TimeZone America/Denver.
 
 ## Cadence Notes
 - Lean daily outreach: one company/role per day while employed full-time
