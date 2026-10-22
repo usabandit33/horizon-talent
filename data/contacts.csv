@@ -1,1 +1,23 @@
-$(cat /tmp/updated_contacts.csv)
+company,contact_name,title,email,status,notes,last_updated
+EliseAI,Minna Song,Co-Founder & CEO,sales@eliseai.com,replied_stop,"Reply 'Stop' from david.b@eliseai.com 2026-10-21. Do not contact.",2026-10-22
+Vendelux,Alexandro Pelaez,Co-Founder & CEO,alexandro@vendelux.com,bounced,"550 5.1.1 does not exist (multiple variants).",2026-10-22
+Vendelux,Alexandro Pelaez,Co-Founder & CEO,alexandro.pelaez@vendelux.com,bounced,"550 5.1.1 2026-10-22.",2026-10-22
+Vendelux,Alexandro Pelaez,Co-Founder & CEO,talent@vendelux.com,bounced,"550 5.1.1 2026-10-22.",2026-10-22
+Orum,Stephany Kirkpatrick,Founder & CEO,sales@orum.io,bounced,"550 5.1.1 does not exist (multiple variants).",2026-10-22
+Orum,Stephany Kirkpatrick,Founder & CEO,info@orum.io,bounced,"550 5.1.1 2026-10-22.",2026-10-22
+Orum,Stephany Kirkpatrick,Founder & CEO,stephany@orum.io,delivered,"Sent 2026-10-22 success no bounce.",2026-10-22
+Orum,Stephany Kirkpatrick,Founder & CEO,talent@orum.io,delivered,"Sent 2026-10-22 success no bounce.",2026-10-22
+Clearstory,Chris Tzortzis,VP of Sales,chris.tzortzis@clearstory.build,bounced,550 5.1.1 2026-10-20,2026-10-22
+Clearstory,Chris Tzortzis,VP of Sales,ctzortzis@clearstory.build,bounced,550 5.1.1 2026-10-20,2026-10-22
+Clearstory,Chris Tzortzis,VP of Sales,talent@clearstory.build,bounced,"550 5.1.1 2026-10-22.",2026-10-22
+Clearstory,Chris Tzortzis,VP of Sales,sales@clearstory.build,delivered,"Sent 2026-10-22 success no bounce.",2026-10-22
+BuildOps,Kevin O'Donnell,VP of Sales,kevin@buildops.com,bounced,Account inactive 2026-10-19,2026-10-22
+BuildOps,Kevin O'Donnell,VP of Sales,talent@buildops.com,bounced,"550 5.1.1 2026-10-22.",2026-10-22
+Miter,Chase Cox,Head of Sales,chase.cox@miter.com,delivered,,2026-10-22
+Miter,Chase Cox,Head of Sales,talent@miter.com,delivered,,2026-10-22
+Siteline,Katie MacKillop,Head of Sales,katie@siteline.com,sent,,2026-10-22
+Afresh,Talent,Hiring,talent@afresh.com,bounced,"550 5.1.1 2026-10-22.",2026-10-22
+Evercommerce,Talent,Hiring,talent@evercommerce.com,bounced,"550 5.4.1 2026-10-22.",2026-10-22
+WorkWave,Talent,Hiring,talent@workwave.com,delivered,"Sent 2026-10-22 success.",2026-10-22
+Bringg,Talent,Hiring,talent@bringg.com,bounced,"550 5.1.1 2026-10-22.",2026-10-22
+Vitality,Careers,Hiring,careers@vitality.io,delivered,"Sent 2026-10-22 success.",2026-10-22
