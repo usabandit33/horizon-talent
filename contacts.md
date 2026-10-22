@@ -1,5 +1,60 @@
 # Key Contacts
 
+## Public Inbox Priority (name pattern already bounced)
+Use this section first for any company that has seen a permanent name bounce. Order: sales@ → talent@ → careers@ → jobs@ → info@. Address the named contact in the body.
+
+### Clearstory
+- Priority: talent@clearstory.build, careers@clearstory.build, jobs@clearstory.build, info@clearstory.build
+- Named contact: Chris Tzortzis, VP of Sales
+- Status: All name patterns bounced. sales@ scheduled 2026-10-22.
+
+### BuildOps
+- Priority: talent@buildops.com, careers@buildops.com, jobs@buildops.com
+- Named contact: Kevin O'Donnell, VP of Sales
+- Status: Name patterns bounced. sales@ scheduled 2026-10-22.
+
+### Orum
+- Priority: talent@orum.io, careers@orum.io, jobs@orum.io, hello@orum.io
+- Named contact: Stephany Kirkpatrick, Founder and CEO
+- Status: sales@ and info@ bounced. Next public wave required.
+
+### Vendelux
+- Priority: talent@vendelux.com, careers@vendelux.com, jobs@vendelux.com
+- Named contact: Alexandro Pelaez, Co-Founder and CEO
+- Status: Name patterns bounced. sales@ scheduled 2026-10-22.
+
+### WorkWave
+- Priority: talent@workwave.com, careers@workwave.com, jobs@workwave.com
+- Named contact: John Ortwerth, CRO
+- Status: Name patterns bounced. john.ortwerth@ scheduled 2026-10-22.
+
+### Afresh
+- Priority: talent@afresh.com, careers@afresh.com, jobs@afresh.com
+- Named contact: Adam Litle, CRO
+- Status: Name patterns bounced. sales@ scheduled 2026-10-22.
+
+### EverPro (EverCommerce)
+- Priority: talent@evercommerce.com, careers@evercommerce.com, jobs@evercommerce.com
+- Named contact: Joe de Craen, SVP Head of Sales
+- Status: Name patterns bounced. sales@ scheduled 2026-10-22.
+
+### Bringg
+- Priority: talent@bringg.com, careers@bringg.com, jobs@bringg.com
+- Named contact: Jeff Eissinger, SVP and GM North America
+- Status: jeff@ bounced. jeff.eissinger@ scheduled 2026-10-22.
+
+### Altana
+- Priority: talent@altana.ai, careers@altana.ai, jobs@altana.ai
+- Named contact: John Capaldi, CRO
+- Status: john@ bounced. john.capaldi@ scheduled 2026-10-22.
+
+### Kargo
+- Priority: talent@kargo.com, careers@kargo.com, jobs@kargo.com
+- Named contact: Harry Kargman, Founder and CEO
+- Status: harry.kargman@ bounced. mobilize@ scheduled 2026-10-22.
+
+---
+
 ## PermitFlow
 - **Danny Gothelf** - VP Sales
   - Company: PermitFlow (construction tech / AI permitting SaaS)
@@ -34,7 +89,7 @@
   - LinkedIn: https://www.linkedin.com/in/logan-creque
   - Likely email: logan.creque@handoff.ai
   - Hiring: Mid-Market / Enterprise AE
-  - Focus: AI estimating & operations for residential contractors / construction supply chain
+  - Focus: AI estimating and operations for residential contractors / construction supply chain
   - Notes: [2026-10-16]
 
 ## Miter
@@ -59,7 +114,7 @@
 ## Clearstory
 - **Chris Tzortzis** - VP of Sales
   - LinkedIn: https://www.linkedin.com/in/chris-tzortzis-90792230
-  - Company: Clearstory (construction change order / T&M workflow SaaS, clearstory.build)
+  - Company: Clearstory (construction change order / T and M workflow SaaS, clearstory.build)
   - Email sent: chris.tzortzis@clearstory.build (2026-10-20 from hello@horizontalentgrp.com)
   - Likely stronger patterns: ctzortzis@clearstory.build (first_initial+last, ~95% common), chris@clearstory.build
   - Hiring: Mid-Market Account Executive (Specialty Contractor), other AE roles
@@ -76,7 +131,7 @@
   - Notes: Outreach sent. Austin/Houston presence. [2026-10-20]
 
 ## Linarc
-- **Shanthi Rajan** - CEO & Founder
+- **Shanthi Rajan** - CEO and Founder
   - Company: Linarc (construction tech / project management platform, linarc.com)
   - LinkedIn: https://www.linkedin.com/in/rajanshanthi
   - Public emails: sales@linarc.com, info@linarc.com, support@linarc.com
@@ -171,7 +226,7 @@
   - Notes: Confirm current title and reporting line. LinkedIn connection request sent 2026-10-20. [2026-10-20]
 
 ## Buildforce
-- **Reid Simpson** - Founder & CEO
+- **Reid Simpson** - Founder and CEO
   - Company: Buildforce (construction tech / proptech SaaS, buildforce.com)
   - LinkedIn: https://www.linkedin.com/in/reid-simpson
   - Public: support@buildforce.com
@@ -180,15 +235,15 @@
   - Notes: SUPPORTED LIKELY PATTERN. Draft prepared 2026-10-21.
 
 ## EliseAI
-- **Minna Song** - Co-Founder & CEO
+- **Minna Song** - Co-Founder and CEO
   - Company: EliseAI (proptech / AI SaaS, eliseai.com)
   - LinkedIn: https://www.linkedin.com/in/minna-song
   - Verified public: sales@eliseai.com
   - Hiring: Strategic Sales Manager | Housing
-  - Notes: VERIFIED PUBLIC INBOX. Draft prepared 2026-10-21.
+  - Notes: VERIFIED PUBLIC INBOX. Draft prepared 2026-10-21. Inactive after stop reply. Do not contact further.
 
 ## Canary Technologies
-- **Harman Singh** - Co-Founder & President
+- **Harman Singh** - Co-Founder and President
   - Company: Canary Technologies (proptech / hospitality SaaS)
   - LinkedIn: https://www.linkedin.com/in/harman-singh
   - Verified public: sales@canarytechnologies.com
@@ -196,7 +251,7 @@
   - Notes: VERIFIED PUBLIC INBOX. Draft prepared 2026-10-21.
 
 ## Roofr
-- **Richard Robbins** - Founder & CEO
+- **Richard Robbins** - Founder and CEO
   - Company: Roofr (construction tech SaaS, roofr.com)
   - LinkedIn: https://www.linkedin.com/in/richard-robbins
   - Likely: richard@roofr.com
@@ -204,7 +259,7 @@
   - Notes: SUPPORTED LIKELY PATTERN. Draft prepared 2026-10-21.
 
 ## Canopy Connect
-- **Tolga Tezel** - Founder & CEO
+- **Tolga Tezel** - Founder and CEO
   - Company: Canopy Connect (proptech / insurtech SaaS, usecanopy.com)
   - LinkedIn: https://www.linkedin.com/in/tolgatezel
   - Verified public: support@usecanopy.com
@@ -212,7 +267,7 @@
   - Notes: VERIFIED PUBLIC INBOX. Draft prepared 2026-10-21.
 
 ## Field Materials
-- **Arash Shirazi** - Co-Founder & CEO
+- **Arash Shirazi** - Co-Founder and CEO
   - Company: Field Materials (construction tech SaaS, fieldmaterials.com)
   - LinkedIn: https://www.linkedin.com/in/arash-shirazi
   - Verified public: support@fieldmaterials.com
@@ -220,35 +275,35 @@
   - Notes: VERIFIED PUBLIC INBOX. Draft prepared 2026-10-21.
 
 ## Vendelux
-- **Alexandro Pelaez** - Co-Founder & CEO
-  - Company: Vendelux (enterprise event & logistics intelligence SaaS, vendelux.com)
+- **Alexandro Pelaez** - Co-Founder and CEO
+  - Company: Vendelux (enterprise event and logistics intelligence SaaS, vendelux.com)
   - LinkedIn: https://www.linkedin.com/in/alexandropelaez
   - Likely: alexandro@vendelux.com
   - Hiring: Mid-Market Account Executive
   - Notes: SUPPORTED LIKELY PATTERN. Draft prepared 2026-10-21.
 
 ## Orum
-- **Stephany Kirkpatrick** - Founder & CEO
-  - Company: Orum (financial & logistics workflow SaaS, orum.io)
+- **Stephany Kirkpatrick** - Founder and CEO
+  - Company: Orum (financial and logistics workflow SaaS, orum.io)
   - LinkedIn: https://www.linkedin.com/in/stephany-kirkpatrick
   - Verified public: sales@orum.io
   - Hiring: Enterprise Account Executive
   - Notes: VERIFIED PUBLIC INBOX. Draft prepared 2026-10-21.
 
 ## Tulip Interfaces
-- **Natan Linder** - Co-Founder & CEO
-  - Company: Tulip Interfaces (field service & operations frontline SaaS, tulip.co)
+- **Natan Linder** - Co-Founder and CEO
+  - Company: Tulip Interfaces (field service and operations frontline SaaS, tulip.co)
   - LinkedIn: https://www.linkedin.com/in/natanlinder
   - Verified public: contact@tulip.co
   - Hiring: Senior Account Executive
   - Notes: VERIFIED PUBLIC INBOX. Draft prepared 2026-10-21.
 
 ## BlueGrace Logistics
-- **Bobby Harris** - Founder & CEO
-  - Company: BlueGrace Logistics (supply chain & logistics SaaS, mybluegrace.com)
+- **Bobby Harris** - Founder and CEO
+  - Company: BlueGrace Logistics (supply chain and logistics SaaS, mybluegrace.com)
   - LinkedIn: https://www.linkedin.com/in/bobby-harris
   - Verified public: info@mybluegrace.com
   - Hiring: Enterprise Logistics Account Executive
   - Notes: VERIFIED PUBLIC INBOX. Draft prepared 2026-10-21.
 
-*Update emails and LinkedIn as verified. Prefer verified over guessed patterns. LinkedIn connection requests sent to all listed new contacts on 2026-10-20 for future reference. New batch drafted 2026-10-21.*
+*Update emails and LinkedIn as verified. Prefer verified over guessed patterns. LinkedIn connection requests sent to all listed new contacts on 2026-10-20 for future reference. New batch drafted 2026-10-21. Public Inbox Priority section added 2026-10-22.*
