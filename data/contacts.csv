@@ -1,1 +1,10 @@
-PLACEHOLDER
+company,contact_name,title,email,status,notes,last_updated
+EliseAI,Minna Song,Co-Founder & CEO,sales@eliseai.com,replied_stop,"Reply 'Stop' from david.b@eliseai.com 2026-10-21. Do not contact.",2026-10-22
+Vendelux,Alexandro Pelaez,Co-Founder & CEO,alexandro@vendelux.com,bounced,"550 5.1.1 does not exist (multiple variants). Next: alexandro.pelaez@, a.pelaez@, sales@",2026-10-22
+Orum,Stephany Kirkpatrick,Founder & CEO,sales@orum.io,bounced,"550 5.1.1 does not exist (multiple variants). Next: stephany@, info@, contact@",2026-10-22
+Clearstory,Chris Tzortzis,VP of Sales,chris.tzortzis@clearstory.build,bounced,550 5.1.1 2026-10-20,2026-10-22
+Clearstory,Chris Tzortzis,VP of Sales,ctzortzis@clearstory.build,bounced,550 5.1.1 2026-10-20,2026-10-22
+BuildOps,Kevin O'Donnell,VP of Sales,kevin@buildops.com,bounced,Account inactive 2026-10-19,2026-10-22
+Miter,Chase Cox,Head of Sales,chase.cox@miter.com,delivered,,2026-10-22
+Miter,Chase Cox,Head of Sales,talent@miter.com,delivered,,2026-10-22
+Siteline,Katie MacKillop,Head of Sales,katie@siteline.com,sent,,2026-10-22
