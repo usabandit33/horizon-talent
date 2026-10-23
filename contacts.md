@@ -306,4 +306,67 @@ Use this section first for any company that has seen a permanent name bounce. Or
   - Hiring: Enterprise Logistics Account Executive
   - Notes: VERIFIED PUBLIC INBOX. Draft prepared 2026-10-21.
 
-*Update emails and LinkedIn as verified. Prefer verified over guessed patterns. LinkedIn connection requests sent to all listed new contacts on 2026-10-20 for future reference. New batch drafted 2026-10-21. Public Inbox Priority section added 2026-10-22.*
+## Anguleris Technologies
+- **Steve Loring** - CRO
+  - Company: Anguleris Technologies (construction tech / building product and AEC software)
+  - Verified public: careers@anguleris.com
+  - Hiring: Enterprise Account Executive US remote
+  - Notes: VERIFIED PUBLIC INBOX. Sent 2026-10-23 MessageId 1792775708970155100.
+
+## Prophetic
+- **Oliver Alexander** - Founder and CEO
+  - Company: Prophetic (proptech / AI for land and real estate development)
+  - Verified public: careers@propheticsoftware.ai
+  - Hiring: Account Executive remote or hybrid Portland
+  - Notes: VERIFIED PUBLIC INBOX. Sent 2026-10-23 MessageId 1792775710603138400.
+
+## Rentana
+- **Julie Blanc** - CEO and co founder
+  - Company: Rentana (proptech / AI powered multifamily revenue intelligence)
+  - Verified public: careers@rentana.io
+  - Hiring: Account Executive US remote
+  - Notes: VERIFIED PUBLIC INBOX. Sent 2026-10-23 MessageId 1792775712237155100.
+
+## AppWork
+- **Sean Landsberg** - Co founder and CEO
+  - Company: AppWork (proptech / multifamily maintenance management SaaS)
+  - Direct: Seanl@AppWorkCo.com
+  - Hiring: Account Executive
+  - Notes: PUBLIC EXECUTIVE ADDRESS. Sent 2026-10-23 MessageId 1792775713957155000.
+
+## Parkade
+- **Evan Goldin** - Co founder and CEO
+  - Company: Parkade (proptech / parking management SaaS)
+  - Verified public: hello@parkade.com
+  - Hiring: Account Executive
+  - Notes: VERIFIED PUBLIC INBOX. Sent 2026-10-23 MessageId 1792775715635138300.
+
+## Eyrus
+- **Doug Schmoe** - Global Head of Sales
+  - Company: Eyrus (construction tech / worksite intelligence workforce tracking safety)
+  - Verified public: KnowMore@eyrus.com
+  - Hiring: Sales Account Executive remote
+  - Notes: VERIFIED PUBLIC INBOX. Sent 2026-10-23 MessageId 1792775717356138300.
+
+## Hubexo
+- **Darren Kerr** - VP of Sales Hubexo North America
+  - Company: Hubexo (construction tech / construction market data intelligence)
+  - Verified public: hello@hubexo.com
+  - Hiring: Mid Market Account Executive North America
+  - Notes: VERIFIED PUBLIC INBOX. Sent 2026-10-23 MessageId 1792775719318138400.
+
+## ketteQ
+- **Bob More** - Chief Revenue Officer
+  - Company: ketteQ (logistics and supply chain / adaptive supply chain planning SaaS)
+  - Verified public: info@ketteq.com
+  - Hiring: Enterprise Account Executive
+  - Notes: VERIFIED PUBLIC INBOX. Sent 2026-10-23 MessageId 1792775721215155100.
+
+## project44
+- **Rick Turco** - Chief Revenue Officer
+  - Company: project44 (logistics and supply chain / supply chain visibility decision intelligence)
+  - Verified public: info@project44.com
+  - Hiring: Enterprise Account Executive remote
+  - Notes: VERIFIED PUBLIC INBOX. Sent 2026-10-23 MessageId 1792775723354155300.
+
+*Update emails and LinkedIn as verified. Prefer verified over guessed patterns. LinkedIn connection requests sent to all listed new contacts on 2026-10-20 for future reference. New batch drafted 2026-10-21. Public Inbox Priority section added 2026-10-22. Anguleris through project44 batch sent 2026-10-23.*
