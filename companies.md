@@ -32,5 +32,14 @@ Focus: construction tech, field service, logistics, proptech. Permanent placemen
 | Orum | Financial & Logistics Workflow SaaS | Workflow automation | Enterprise Account Executive | Contact: Stephany Kirkpatrick, Founder & CEO. Verified public: sales@orum.io. [2026-10-21] |
 | Tulip Interfaces | Field Service & Operations Frontline SaaS | Industrial operations and supply chain software | Senior Account Executive | Contact: Natan Linder, Co-Founder & CEO. Verified public: contact@tulip.co. [2026-10-21] |
 | BlueGrace Logistics | Supply Chain & Logistics SaaS | Tech-enabled logistics management | Enterprise Logistics Account Executive | Contact: Bobby Harris, Founder & CEO. Verified public: info@mybluegrace.com. [2026-10-21] |
+| Anguleris Technologies | Construction tech | Building product and AEC software | Enterprise Account Executive US remote | Contact: Steve Loring CRO. Public: careers@anguleris.com. Sent 2026-10-23 |
+| Prophetic | Proptech | AI software for land and real estate development | Account Executive remote or hybrid Portland | Contact: Oliver Alexander Founder CEO. Public: careers@propheticsoftware.ai. Sent 2026-10-23 |
+| Rentana | Proptech | AI powered multifamily revenue intelligence | Account Executive US remote | Contact: Julie Blanc CEO co founder. Public: careers@rentana.io. Sent 2026-10-23 |
+| AppWork | Proptech | Multifamily maintenance management SaaS | Account Executive | Contact: Sean Landsberg Co founder CEO. Direct: Seanl@AppWorkCo.com. Sent 2026-10-23 |
+| Parkade | Proptech | Parking management SaaS for apartments condos offices | Account Executive | Contact: Evan Goldin Co founder CEO. Public: hello@parkade.com. Sent 2026-10-23 |
+| Eyrus | Construction tech | Worksite intelligence workforce tracking safety | Sales Account Executive remote | Contact: Doug Schmoe Global Head of Sales. Public: KnowMore@eyrus.com. Sent 2026-10-23 |
+| Hubexo | Construction tech | Construction market data intelligence software | Mid Market Account Executive North America | Contact: Darren Kerr VP Sales North America. Public: hello@hubexo.com. Sent 2026-10-23 |
+| ketteQ | Logistics and supply chain | Adaptive supply chain planning SaaS | Enterprise Account Executive | Contact: Bob More CRO. Public: info@ketteq.com. Sent 2026-10-23 |
+| project44 | Logistics and supply chain | Supply chain visibility and decision intelligence | Enterprise Account Executive remote | Contact: Rick Turco CRO. Public: info@project44.com. Sent 2026-10-23 |
 
-*Add more companies as researched. Prioritize those with active sales hiring in target verticals. Updated 2026-10-21 with Buildforce, EliseAI, Canary, Roofr, Canopy, Field Materials, Vendelux, Orum, Tulip, BlueGrace.*
+*Add more companies as researched. Prioritize those with active sales hiring in target verticals. Updated 2026-10-23 with Anguleris Prophetic Rentana AppWork Parkade Eyrus Hubexo ketteQ project44.*
