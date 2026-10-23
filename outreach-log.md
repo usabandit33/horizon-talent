@@ -208,6 +208,69 @@ Tracking outreach from hello@horizontalentgrp.com (Horizon Talent Grp). Always i
 - Next public priority: talent@kargo.com, careers@kargo.com, jobs@kargo.com
 - Status: Public inbox wave started
 
+## Anguleris Technologies
+- Date: 2026-10-23
+- Contact: Steve Loring, CRO
+- Verified: careers@anguleris.com
+- Role: Enterprise Account Executive US remote
+- Status: Sent 2026-10-23 MessageId 1792775708970155100
+
+## Prophetic
+- Date: 2026-10-23
+- Contact: Oliver Alexander, Founder and CEO
+- Verified: careers@propheticsoftware.ai
+- Role: Account Executive
+- Status: Sent 2026-10-23 MessageId 1792775710603138400
+
+## Rentana
+- Date: 2026-10-23
+- Contact: Julie Blanc, CEO and co founder
+- Verified: careers@rentana.io
+- Role: Account Executive US remote
+- Status: Sent 2026-10-23 MessageId 1792775712237155100
+
+## AppWork
+- Date: 2026-10-23
+- Contact: Sean Landsberg, Co founder and CEO
+- Direct: Seanl@AppWorkCo.com
+- Role: Account Executive
+- Status: Sent 2026-10-23 MessageId 1792775713957155000
+
+## Parkade
+- Date: 2026-10-23
+- Contact: Evan Goldin, Co founder and CEO
+- Verified: hello@parkade.com
+- Role: Account Executive
+- Status: Sent 2026-10-23 MessageId 1792775715635138300
+
+## Eyrus
+- Date: 2026-10-23
+- Contact: Doug Schmoe, Global Head of Sales
+- Verified: KnowMore@eyrus.com
+- Role: Sales Account Executive remote
+- Status: Sent 2026-10-23 MessageId 1792775717356138300
+
+## Hubexo
+- Date: 2026-10-23
+- Contact: Darren Kerr, VP of Sales North America
+- Verified: hello@hubexo.com
+- Role: Mid Market Account Executive North America
+- Status: Sent 2026-10-23 MessageId 1792775719318138400
+
+## ketteQ
+- Date: 2026-10-23
+- Contact: Bob More, CRO
+- Verified: info@ketteq.com
+- Role: Enterprise Account Executive
+- Status: Sent 2026-10-23 MessageId 1792775721215155100
+
+## project44
+- Date: 2026-10-23
+- Contact: Rick Turco, CRO
+- Verified: info@project44.com
+- Role: Enterprise Account Executive remote
+- Status: Sent 2026-10-23 MessageId 1792775723354155300
+
 ## Cadence Notes
 - Lean daily outreach: one company/role per day while employed full-time
 - Contingency model preferred
@@ -226,4 +289,4 @@ Scheduled starting ~17:30 America/Denver in 1 hour increments:
 - talent@evercommerce.com
 - talent@bringg.com
 
-Last updated: 2026-10-22
+Last updated: 2026-10-23
